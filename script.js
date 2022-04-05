@@ -10,7 +10,7 @@ function calculator(){
         outputScreen.value = eval(outputScreen.value);
     }
     catch{
-        alert("invalid MASZZE")
+        alert("invalid MASZZE🤪")
     }
 }
 // fungsi untuk menghapus angka secara keseluruhan langsung 
